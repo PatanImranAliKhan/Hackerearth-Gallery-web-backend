@@ -1,4 +1,4 @@
-# Hackerearth GalleryappFrontend
+# Hackerearth Galleryapp Backend
 
 This is a Nodejs project
 
